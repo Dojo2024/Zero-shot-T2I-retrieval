@@ -1,0 +1,53 @@
+Metadata-Version: 2.4
+Name: perception_models
+Version: 1.0.0
+Summary: Models of the Perception family.
+Home-page: https://github.com/facebookresearch/perception_models
+Author: Meta AI Research, FAIR
+License: FAIR Noncommercial Research License
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Requires-Python: >=3.11
+License-File: LICENSE.PE
+License-File: LICENSE.PLM
+Requires-Dist: numpy==2.1.2
+Requires-Dist: omegaconf==2.3.0
+Requires-Dist: msgspec==0.19.0
+Requires-Dist: rouge-score==0.1.2
+Requires-Dist: sacrebleu==2.5.1
+Requires-Dist: sentencepiece==0.2.0
+Requires-Dist: tiktoken==0.9.0
+Requires-Dist: blobfile==3.0.0
+Requires-Dist: wandb==0.19.8
+Requires-Dist: viztracer==1.0.3
+Requires-Dist: lm-eval==0.4.8
+Requires-Dist: scipy==1.15.2
+Requires-Dist: pynvml==12.0.0
+Requires-Dist: orjson==3.10.15
+Requires-Dist: einops==0.8.1
+Requires-Dist: pillow==11.0.0
+Requires-Dist: pyahocorasick==2.1.0
+Requires-Dist: iopath==0.1.10
+Requires-Dist: torchdata==0.11.0
+Requires-Dist: torchcodec
+Requires-Dist: timm==1.0.15
+Requires-Dist: decord==0.6.0
+Requires-Dist: opencv-python==4.11.0.86
+Requires-Dist: pycocoevalcap==1.2
+Requires-Dist: scikit-learn==1.6.1
+Requires-Dist: scipy==1.15.2
+Requires-Dist: sentencepiece==0.2.0
+Requires-Dist: tokenizers==0.21.1
+Requires-Dist: webdataset==0.2.111
+Requires-Dist: fsspec
+Requires-Dist: datatrove
+Requires-Dist: ftfy
+Requires-Dist: transformers>=4.48.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
